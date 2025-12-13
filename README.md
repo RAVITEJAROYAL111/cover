@@ -1,5 +1,5 @@
 # Ex.05 Book Cover Page Design
-## Date:11-12-2025
+## Date:13-12-2025
 
 ## AIM:
 To design a book back cover page using HTML and CSS.
@@ -127,7 +127,7 @@ body
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-11 205638.png>)
+![alt text](<Screenshot 2025-12-13 093641.png>)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
