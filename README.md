@@ -1,5 +1,5 @@
 # Ex.05 Book Cover Page Design
-## Date:16-12-2025
+## Date:19-12-2025
 
 ## AIM:
 To design a book back cover page using HTML and CSS.
@@ -45,7 +45,7 @@ cover.html
              <h1>ABOUT THE BOOK</h1>
              <hr></hr>
              <P>
-               “The C Programming Language” by Brian W. Kernighan and Dennis Ritchie is one of the most influential technology books in computer science. 
+               <span class="highlight>">"The C Programming Language”</span>by Brian W. Kernighan and Dennis Ritchie is one of the most influential technology books in computer science. 
                It introduces the C language, which is the foundation for many modern technologies, operating systems, and programming languages (like C++, Java, Python interpreters, and more).
                
              </P>
@@ -74,8 +74,13 @@ cover.html
               <span class="printed">PRINTED IN INDIA</span>
          </div>
          </div>
+        
+    </body>
+    <body>
+        <h2 class="me">SIVA R (25007668)</h2>
     </body>
 </html>
+
 ```
 ```
 style.css
@@ -95,6 +100,7 @@ body
     margin: 60px auto;
     position:relative;
     left:400px;
+    top:0%
     
    
 }
@@ -158,10 +164,21 @@ body
     left: -10px;
     bottom: 86px;
 }
+.me
+{
+    background-color: aquamarine ;
+    
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+    left:400px;
+
+}
+
 ```
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-12-16 100811.png>)
+![alt text](<Screenshot 2025-12-19 090858.png>)
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
