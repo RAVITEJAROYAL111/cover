@@ -59,7 +59,7 @@ cover.html
              <img src="1.jpg" alt="Author" class="profile-img">
             
              <div>
-                 <h2>R SIVA</h2>
+                 <h2>ravi teja royal</h2>
                  <p>
                  Siva is a dedicated student pursuing Cybersecurity at Saveetha College. He is interested in modern security technologies and enjoys learning how to protect systems, networks, and data from digital threats.
                  
@@ -77,7 +77,7 @@ cover.html
         
     </body>
     <body>
-        <h2 class="me">SIVA R (25007668)</h2>
+        <h2 class="me">ravi teja royal(25011599)</h2>
     </body>
 </html>
 
@@ -178,7 +178,8 @@ body
 ```
 
 ## OUTPUT:
+<img width="1080" height="768" alt="image" src="https://github.com/user-attachments/assets/5ee584b6-12bd-4846-9db3-35b12fb9a206" />
 
-![alt text](<Screenshot 2025-12-19 090858.png>)
+
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
